@@ -1,0 +1,12 @@
+[package]
+name = "lwp-util"
+version = "0.1.0"
+authors = ["lwp"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+encoding_rs="0.8.22"
+chrono ="0.4.10"
+time="0.1.39"
